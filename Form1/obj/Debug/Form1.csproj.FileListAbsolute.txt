@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\bin\Debug\Form1.exe.config
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\bin\Debug\Form1.exe
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\bin\Debug\Form1.pdb
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.exe
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.pdb

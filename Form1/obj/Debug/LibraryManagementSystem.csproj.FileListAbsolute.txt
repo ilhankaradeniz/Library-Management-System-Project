@@ -1,0 +1,53 @@
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\bin\Debug\Form1.exe.config
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\bin\Debug\Form1.exe
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\bin\Debug\Form1.pdb
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.exe
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.pdb
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.Dashboard.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.AddBooks.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.ViewBook.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.AddStudent.resources
+C:\Users\USER\source\repos\LibraryManagementSystem\Form1\obj\Debug\Form1.ViewStudent.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\bin\Debug\Form1.exe.config
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\bin\Debug\Form1.exe
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\bin\Debug\Form1.pdb
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.AddBooks.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.AddStudent.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.Dashboard.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.ViewBook.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.ViewStudent.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.exe
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.pdb
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.IssueBooks.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.ReturnBook.resources
+C:\Users\USER\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.CompleteBookDetail.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\bin\Debug\Form1.exe.config
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\bin\Debug\Form1.exe
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\bin\Debug\Form1.pdb
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.AddBooks.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.AddStudent.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.CompleteBookDetail.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.Dashboard.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.Form1.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.IssueBooks.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.ReturnBook.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.ViewBook.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.ViewStudent.resources
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.exe
+C:\Mac\Home\Desktop\LMS\Library Management System\Form1\obj\Debug\Form1.pdb
